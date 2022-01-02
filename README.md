@@ -24,8 +24,6 @@ Trying to Design the screenshot of given Samsung S8 completely using html and ta
 
 
 
-## Tailwind Css
-
 ## Requirements
 
 - Basic Tailwindcss Knowledge
