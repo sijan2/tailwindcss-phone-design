@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base{
+  @font-face{
+    font-family: Chococooky;
+    src: url(../fonts/Chococooky.ttf) format("truetype");
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
