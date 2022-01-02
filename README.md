@@ -34,11 +34,11 @@ Trying to Design the screenshot of given Samsung S8 completely using html and ta
 
 ## Getting Started
 
-you need to go the file directory and run
+you need to go the file directory in your CLI and run
 
 ```shell
 
-npm install
+git clone https://github.com/sijan2/tailwindcss-phone-design.git
 
 ```
 
@@ -46,6 +46,6 @@ and after that start the dev server.
 
 ```shell
 
-npm start
+npm run dev
 
 ```
