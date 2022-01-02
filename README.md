@@ -1,4 +1,12 @@
-![](./readmeImg/readme.jpg)
+
+<div align="right">
+  
+<img align="left" width = "300px" height="600" src="https://github.com/sijan2/tailwindcss-phone-design/blob/main/readmeImg/readme.jpg">
+
+
+  <img align="right" width = "300px" height="600" src="https://github.com/sijan2/tailwindcss-phone-design/blob/main/readmeImg/readme2.jpeg">
+
+  </div>
 
 
 # PhoneDesign 📳
@@ -12,13 +20,15 @@ Made with ❤️ by [Sijan Mainali](https://t.me/sijan_mainali)
 ---
 
 ## Project Description
-Trying to Design phone completely using html and tailwind css.
+Trying to Design the screenshot of given Samsung S8 completely using html and tailwind css.
+
+
 
 ## Tailwind Css
 
 ## Requirements
 
-- Basic ReactJs knowledge
+- Basic Tailwindcss Knowledge
 
 - Basic HTML, CSS knowledge
 
